@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpync",
+        "uuid": 3892048,
+        "checksum": "9e6plp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
